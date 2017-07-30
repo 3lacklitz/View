@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">View</string>
+    <string name="log_in">Log In</string>
+    <string name="get_start">Get Start</string>
+    <string name="first_text">Do you want a mango ?</string>
+    <string name="second_text">Google Play</string>
+</resources>
